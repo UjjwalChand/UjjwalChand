@@ -1,5 +1,5 @@
-# 💫 Namaste this is Ujjwal Chand
-Backend Developer
+# 💫 About Me
+SOFTWARE DEVELOPMENT ENGINEER
 
 
 ## 🌐 Socials:
