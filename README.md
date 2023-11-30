@@ -1,5 +1,5 @@
-# 💫 About Me
-SOFTWARE DEVELOPMENT ENGINEER
+# 💫 Hi there this is Ujjwal Chand
+Software Development Engineer
 
 
 ## 🌐 Socials:
