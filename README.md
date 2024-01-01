@@ -1,5 +1,6 @@
 # 💫 Hi there this is Ujjwal Chand
-Software Development Engineer
+
+Full Stack Web Developer
 
 
 ## 🌐 Socials:
